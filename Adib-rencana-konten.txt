@@ -3,7 +3,10 @@ Rencana konten adib
 -javascript
  *ES6
  *framework javascript
+   ^vue
 -struktur data dasar
 -php framework
+ ^Laravel
 -interview
 -vlog
+-python
