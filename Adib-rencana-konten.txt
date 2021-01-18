@@ -3,9 +3,11 @@ Rencana konten adib
 -javascript
  *ES6
  *framework javascript
-  ^angular
-  ^react
+   ^vue
+   ^react
+-struktur data dasar
 -php framework
- ^laravel
+ ^Laravel
 -interview
 -vlog
+-python
