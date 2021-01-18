@@ -1,0 +1,8 @@
+Rencana konten adib
+
+-javascript
+ *ES6
+ *framework javascript
+-php framework
+-interview
+-vlog
