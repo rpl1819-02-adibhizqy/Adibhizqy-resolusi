@@ -3,6 +3,7 @@ Rencana konten adib
 -javascript
  *ES6
  *framework javascript
+-struktur data dasar
 -php framework
 -interview
 -vlog
