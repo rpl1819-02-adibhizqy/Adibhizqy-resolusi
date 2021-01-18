@@ -1,2 +1,2 @@
-# Adibhizqy-resolusi
-Repository untuk menyimpan rencana adib kedepannya
+# belajar-github
+Repository untuk mengerjakan tugas
